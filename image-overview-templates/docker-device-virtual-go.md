@@ -21,7 +21,7 @@ $$./common/what-is-edgex.md
 
 # What's in this image?
 
-This image contains the virtual device service, which simulates different kinds of devices to generate events and readings to the core data micro service, and users send commands and get responses through the command and control micro service. These features of the virtual device services are useful when executing functional or performance tests without having any real devices.
+This image contains the [virtual device service](https://docs.edgexfoundry.org/1.2/microservices/device/virtual/Ch-VirtualDevice/), which simulates different kinds of devices to generate events and readings to the core data micro service, and users send commands and get responses through the command and control micro service. These features of the virtual device services are useful when executing functional or performance tests without having any real devices.
 
 The device virtual service source code: https://github.com/edgexfoundry/device-virtual-go
 

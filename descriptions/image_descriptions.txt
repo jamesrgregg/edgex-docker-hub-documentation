@@ -20,3 +20,23 @@ docker-edgex-consul:Consul service providing configuration and registration for 
 docker-device-random-go:Device service simulating a device via random numbers for EdgeX Foundry
 docker-device-rest-go:Device service ingesting device data via REST for EdgeX Foundry
 docker-support-scheduler:ARCHIVED! The legacy scheduler service for EdgeX Foundry
+docker-device-virtual:ARCHIVED! The legacy virtual device service for EdgeX Foundry
+docker-core-data-go-arm64:The ARM64 implementation core data micro service for EdgeX Foundry
+docker-core-data:ARCHIVED! The legacy core data service for EdgeX Foundry
+docker-core-metadata-go-arm64:The ARM64 implementation core metadata micro service for EdgeX Foundry
+docker-core-command-go-arm64:The ARM64 implementation core command micro service for EdgeX Foundry
+docker-core-metadata:ARCHIVED! The legacy core metadata service for EdgeX Foundry
+docker-support-notifications-go-arm64:The ARM64 impl notifications service for EdgeX Foundry
+docker-edgex-mongo-arm64:ARCHIVED! The ARM64 MongoDB container for older versions of EdgeX Foundry
+docker-support-logging:ARCHIVED! The legacy logging service for EdgeX Foundry
+docker-support-scheduler-go-arm64:The ARM64 implementation scheduler service for EdgeX Foundry
+docker-support-logging-go-arm64:ARCHVED! ARM64 central logging for older versions of EdgeX Foundry
+docker-export-client-go-arm64:ARCHIVED! ARM64 export registration for older EdgeX Foundry
+docker-core-config-seed-go-arm64:ARCHIVED! Legacy ARM64 configuration seeding for EdgeX Foundry
+docker-core-command:ARCHIVED! The legacy core command service for EdgeX Foundry
+docker-edgex-ui-go-arm64:The ARM64 demonstration and developer EdgeX Foundry user interface
+docker-support-rulesengine-arm64:ARCHIVED! The legacy ARM64 rules engine service for EdgeX Foundry
+docker-export-distro-go-arm64:ARCHIVED! The ARM64 export distribution for older EdgeX Foundry
+docker-device-mqtt-go:Device service ingesting device data via MQTT for EdgeX Foundry
+docker-export-distro:ARCHIVED! The legacy export distribution for older EdgeX Foundry
+docker-device-virtual-arm64:ARCHIVED! The legacy ARM64 virtual device service for EdgeX Foundry

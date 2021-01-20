@@ -13,7 +13,7 @@ $$./common/version-geneva.md
 
 - Where to file issues: https://github.com/edgexfoundry/docker-edgex-mongo/issues (NOTE - this image is archived and issues are no longer being worked)
 
-- Supported architectures: intel/amd64
+- Supported architectures: arm64
 
 - Published image artifact details: https://nexus3.edgexfoundry.org
 
@@ -24,7 +24,7 @@ $$./common/what-is-edgex.md
 # What's in this image?
 
 **ARCHIVED**
-This image contains the files to create the MongoDB container used for persistence in older EdgeX Foundry releases.  It is no longer used or supported.
+This image contains the files to create the **ARM64 version** of the MongoDB container used for persistence in older EdgeX Foundry releases.  It is no longer used or supported.
 
 The service source code: https://github.com/edgexfoundry/docker-edgex-mongo
 
