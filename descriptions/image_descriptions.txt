@@ -1,0 +1,22 @@
+# descriptions for EdgeX Foundry Docker Hub images (limited to 100 chars)
+docker-core-data-go:The reference implementation core data micro service for EdgeX Foundry
+docker-core-metadata-go:The reference implementation core metadata micro service for EdgeX Foundry
+docker-core-command-go:The reference implementation core command micro service for EdgeX Foundry
+docker-edgex-mongo:ARCHIVED! MongoDB container for older versions of EdgeX Foundry
+docker-support-logging-go:ARCHVED! Central logging service for older versions of EdgeX Foundry
+docker-edgex-volume:ARCHIVED! Docker volume container for older versions of EdgeX Foundry
+docker-export-distro-go:ARCHIVED! Export distribution service for older versions of EdgeX Foundry
+docker-export-client-go:ARCHIVED! Export registration service for older versions of EdgeX Foundry
+docker-support-notifications:ARCHIVED! The legacy notifications service for EdgeX Foundry
+docker-support-scheduler-go:The reference implementation scheduler service for EdgeX Foundry
+docker-core-config-seed-go:ARCHIVED! The legacy configuration seeding service for EdgeX Foundry
+docker-support-notifications-go:The reference implementation notifications service for EdgeX Foundry
+docker-device-virtual-go:Device service simulating different kinds of devices for EdgeX Foundry
+docker-support-rulesengine:ARCHIVED! The legacy rules engine service for EdgeX Foundry
+docker-sys-mgmt-agent-go:The reference implementation management agent for EdgeX Foundry
+docker-edgex-ui-go:The demonstration and developer EdgeX Foundry user interface
+docker-app-service-configurable:A configurable application service for EdgeX Foundry
+docker-edgex-consul:Consul service providing configuration and registration for EdgeX Foundry
+docker-device-random-go:Device service simulating a device via random numbers for EdgeX Foundry
+docker-device-rest-go:Device service ingesting device data via REST for EdgeX Foundry
+docker-support-scheduler:ARCHIVED! The legacy scheduler service for EdgeX Foundry
