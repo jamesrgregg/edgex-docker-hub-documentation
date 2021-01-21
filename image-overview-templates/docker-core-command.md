@@ -4,8 +4,8 @@ $$./common/quick-reference.md
 
 # Supported tags and respective Dockerfile links
 
-$$./common/version-california.md
-        - [Dockerfile](https://github.com/edgexfoundry/core-command/blob/master/docker-files/Dockerfile)
+$$./common/version-barcelona.md
+        - [Dockerfile](https://github.com/edgexfoundry/core-command/blob/barcelona/docker-files/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -46,4 +46,4 @@ way to simplify communications with the devices. There are two types of commands
 The core data service source code: https://github.com/edgexfoundry/core-command
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/core-command/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/core-command/blob/barcelona/Attribution.txt).

@@ -1,20 +1,30 @@
+<!--
+
+********************************************************************************
+
+WARNING:
+
+    DO NOT EDIT.  THIS FILE IS AUTO-GENERATED
+
+********************************************************************************
+
+-->
+**This image is ARCHIVED and no longer actively developed or maintained in EdgeX Foundry.  Use only when working with an older version of EdgeX.**
 # Quick reference
----
 
 - Maintained by: [EdgeX Foundry](https://www.edgexfoundry.org) (a [Linux Foundation](https://www.linuxfoundation.org/) project)
 
 - Where to get help: [EdgeX Web Site](https://www.edgexfoundry.com), [EdgeX Documentation](https://docs.edgexfoundry.com), [EdgeX Slack](https://slack.edgexfoundry.org/), [EdgeX Project Wiki](https://wiki.edgexfoundry.org)
-
 # Supported tags and respective Dockerfile links
 
-- Hanoi
-    - [1.3.0](https://github.com/edgexfoundry/edgex-go/blob/master/cmd/core-data/Dockerfile)
+- California
+    - 0.6.1        - [Dockerfile](https://github.com/edgexfoundry/core-config-seed-go/blob/california/Dockerfile.aarch64)
 
 # Quick reference (cont.)
 
-- Where to file issues: https://github.com/edgexfoundry/edgex-go/issues
+- Where to file issues: https://github.com/edgexfoundry/core-config-seed-go/issues (NOTE - this image is archived and issues are no longer being worked)
 
-- Supported architectures: intel/amd64
+- Supported architectures: arm64
 
 - Published image artifact details: https://nexus3.edgexfoundry.org
 
@@ -28,19 +38,15 @@ In simple terms, EdgeX is edge middleware - serving between physical sensing and
 
 EdgeX's official documentation can be found at [docs.edgexfoundry.org](https://docs.edgexfoundry.org).
 
-Core data is run as part of a collection of EdgeX micro services.  See the [EdgeX Docker Compose files](https://github.com/edgexfoundry/developer-scripts/tree/master/releases) for how to use the image as part of an EdgeX Foundry deployment.
-
-![logo](EdgeX_octopus.png)
+![logo](https://www.lfedge.org/wp-content/uploads/2020/11/Screen-Shot-2019-10-28-at-3.45.29-PM-300x269.png)
 
 *Edgey - the official EdgeX Foundry project mascot*
-
 # What's in this image?
 
-This image contains the [core data](https://docs.edgexfoundry.org/1.3/microservices/core/data/Ch-CoreData/) service and all of its base configuration.
+**ARCHIVED**
+ This **ARM64 version** service initializes the Configuration Management (Consul) micro service in older EdgeX Foundry releases.  It is no longer used or supported. It loads the default configuration from property or YAML files, and push values to the Consul Key/Value store.
 
-The core data micro service provides centralized persistence for data collected by devices. Device services that collect sensor data call on the core data service to store the sensor data on the edge system (such as in a gateway) until the data gets moved "north" and then exported to Enterprise and cloud systems. Core data persists the data in a local database. Redis is used by default, but a database abstraction layer allows for other databases to be used.
-
-The core data service source code: https://github.com/edgexfoundry/edgex-go
+The service source code: https://github.com/edgexfoundry/core-config-seed-go
 
 # License
 
@@ -50,5 +56,5 @@ As with all Docker images, these likely also contain other software which may be
 
 As for any pre-built image usage, it is the image user's responsibility to ensure that any use of this image complies with any relevant licenses for all software contained within.
 
-Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated 
-[source repository](https://github.com/edgexfoundry/edgex-go/blob/master/Attribution.txt).
+
+

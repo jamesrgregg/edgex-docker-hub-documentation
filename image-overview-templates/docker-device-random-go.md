@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/device-random/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/device-random/blob/v1.3.0/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -26,4 +26,4 @@ This image contains the random device service.The Random Integer device service 
 The device random service source code: https://github.com/edgexfoundry/device-random
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/device-random/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/device-random/blob/v1.3.0/Attribution.txt).

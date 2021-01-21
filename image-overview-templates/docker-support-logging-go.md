@@ -6,8 +6,8 @@ $$./common/quick-reference.md
 
 # Supported tags and respective Dockerfile links
 
-$$./common/version-geneva.md
-        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/geneva/cmd/support-logging/Dockerfile)
+$$./common/version-hanoi.md
+        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-logging/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ This image contains the central logging micro service for all EdgeX services.  T
 The service source code: https://github.com/edgexfoundry/edgex-go
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/edgex-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-logging/Attribution.txt).

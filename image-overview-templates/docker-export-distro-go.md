@@ -7,7 +7,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-fuji.md
-        - [Dockerfile](https://github.com/edgexfoundry/export-distro/blob/master/docker-files/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/fuji/cmd/export-distro/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ The EdgeX Foundry Export Distribution micro service, also known as “Export Dis
 The service source code: https://github.com/edgexfoundry/export-distro
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/export-distro/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/fuji/cmd/export-distro/Attribution.txt).

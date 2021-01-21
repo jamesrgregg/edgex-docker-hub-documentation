@@ -17,7 +17,7 @@ WARNING:
 # Supported tags and respective Dockerfile links
 
 - Hanoi
-    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-consul/blob/master/Dockerfile)
+    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-consul/blob/v1.3.0/Dockerfile)
 
 # Quick reference (cont.)
 

@@ -17,8 +17,8 @@ WARNING:
 - Where to get help: [EdgeX Web Site](https://www.edgexfoundry.com), [EdgeX Documentation](https://docs.edgexfoundry.com), [EdgeX Slack](https://slack.edgexfoundry.org/), [EdgeX Project Wiki](https://wiki.edgexfoundry.org)
 # Supported tags and respective Dockerfile links
 
-- Geneva
-    - 1.2.1        - [Dockerfile](https://github.com/edgexfoundry/core-config-seed-go/blob/master/Dockerfile)
+- California
+    - 0.6.1        - [Dockerfile](https://github.com/edgexfoundry/core-config-seed-go/blob/california/Dockerfile)
 
 # Quick reference (cont.)
 

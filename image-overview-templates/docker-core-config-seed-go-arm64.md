@@ -6,8 +6,8 @@ $$./common/quick-reference.md
 
 # Supported tags and respective Dockerfile links
 
-$$./common/version-geneva.md
-        - [Dockerfile](https://github.com/edgexfoundry/core-config-seed-go/blob/master/Dockerfile)
+$$./common/version-california.md
+        - [Dockerfile](https://github.com/edgexfoundry/core-config-seed-go/blob/california/Dockerfile.aarch64)
 
 # Quick reference (cont.)
 

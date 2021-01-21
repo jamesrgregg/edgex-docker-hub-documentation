@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/device-virtual-go/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/device-virtual-go/blob/v1.3.0/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -26,4 +26,4 @@ This image contains the [virtual device service](https://docs.edgexfoundry.org/1
 The device virtual service source code: https://github.com/edgexfoundry/device-virtual-go
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/device-virtual-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/device-virtual-go/blob/v1.3.0/Attribution.txt).

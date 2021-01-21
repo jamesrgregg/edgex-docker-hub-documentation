@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/master/cmd/core-data/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/core-data/Dockerfile)
 
 $$./common/quick-reference-cont-edgex-go-arm.md
 
@@ -20,4 +20,4 @@ The core data micro service provides centralized persistence for data collected 
 The core data service source code: https://github.com/edgexfoundry/edgex-go
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/edgex-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/core-data/Attribution.txt).

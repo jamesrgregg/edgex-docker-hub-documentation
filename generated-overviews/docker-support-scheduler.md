@@ -16,8 +16,8 @@ WARNING:
 - Where to get help: [EdgeX Web Site](https://www.edgexfoundry.com), [EdgeX Documentation](https://docs.edgexfoundry.com), [EdgeX Slack](https://slack.edgexfoundry.org/), [EdgeX Project Wiki](https://wiki.edgexfoundry.org)
 # Supported tags and respective Dockerfile links
 
-- Barcelona
-    - 0.2.1        - [Dockerfile](https://github.com/edgexfoundry/docker-support-scheduler/blob/master/Dockerfile)
+- California
+    - 0.6.1        - [Dockerfile](https://github.com/edgexfoundry/support-scheduler/blob/california/docker-files/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -60,4 +60,4 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
 Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated
 
 
-[source repository](https://github.com/edgexfoundry/support-scheduler/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/support-scheduler/blob/california/Attribution.txt).

@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-california.md
-        - [Dockerfile](https://github.com/edgexfoundry/docker-support-notifications/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/support-notifications/blob/barcelona/docker-files/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ When another system or a person needs to know that something occurred in EdgeX, 
 The support notifications service source code: https://github.com/edgexfoundry/support-notifications
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/support-notifications/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/support-notifications/blob/barcelona/Attribution.txt).

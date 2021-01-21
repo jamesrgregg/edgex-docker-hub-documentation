@@ -7,7 +7,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-geneva.md
-        - [Dockerfile](https://github.com/edgexfoundry/support-rulesengine/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/support-rulesengine/blob/v1.2.1/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ This image contains the legacy rules engine micro service, which receives data f
 The service source code: https://github.com/edgexfoundry/support-rulesengine
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/support-rulesengine/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/support-rulesengine/blob/v1.2.1/Attribution.txt).

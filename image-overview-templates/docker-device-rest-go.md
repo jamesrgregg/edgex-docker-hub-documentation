@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/device-rest-go/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/device-rest-go/blob/v1.2.0/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -26,4 +26,4 @@ This image contains the REST device service, which provides an easy way for 3'rd
 The device REST service source code: https://github.com/edgexfoundry/device-rest-go
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/device-rest-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/device-rest-go/blob/v1.2.0/Attribution.txt).

@@ -1,2 +1,2 @@
-- Barcelona
-    - 0.2.1
+- California
+    - 0.6.1

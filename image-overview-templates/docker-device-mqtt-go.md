@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/device-mqtt-go/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/device-mqtt-go/blob/v1.3.0/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -26,4 +26,4 @@ This image contains the MQTT device service, for connecting a MQTT topic to Edge
 The device MQTT service source code: https://github.com/edgexfoundry/device-mqtt-go
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/device-mqtt-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/device-mqtt-go/blob/v1.3.0/Attribution.txt).

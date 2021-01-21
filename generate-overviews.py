@@ -26,10 +26,10 @@ def get_file_content(filename):
         content = f.read()
         f.close()
     except FileNotFoundError:
-        print("No content file %s" % filename)
+        print("\tNo content file %s" % filename)
         content = "**no content file**\n"
     except:
-        print("Trouble opening file %s" % filename)
+        print("\tTrouble opening file %s" % filename)
         content = "**missing content**\n"
     return content
 

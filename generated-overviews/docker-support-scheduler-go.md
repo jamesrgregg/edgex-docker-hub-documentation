@@ -17,7 +17,7 @@ WARNING:
 # Supported tags and respective Dockerfile links
 
 - Hanoi
-    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/master/cmd/support-scheduler/Dockerfile)
+    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-scheduler/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -58,4 +58,4 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
 Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated
 
 
-[source repository](https://github.com/edgexfoundry/edgex-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-scheduler/Attribution.txt).

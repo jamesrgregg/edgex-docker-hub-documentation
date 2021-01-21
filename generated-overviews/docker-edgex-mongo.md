@@ -17,12 +17,12 @@ WARNING:
 - Where to get help: [EdgeX Web Site](https://www.edgexfoundry.com), [EdgeX Documentation](https://docs.edgexfoundry.com), [EdgeX Slack](https://slack.edgexfoundry.org/), [EdgeX Project Wiki](https://wiki.edgexfoundry.org)
 # Supported tags and respective Dockerfile links
 
-- Geneva
-    - 1.2.1        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-mongo/blob/master/cmd/Dockerfile)
+- Hanoi
+    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-mongo/blob/1.3.0/cmd/Dockerfile)
 
 # Quick reference (cont.)
 
-- Where to file issues: https://github.com/edgexfoundry/edgex-go/issues (NOTE - this image is archived and issues are no longer being worked)
+- Where to file issues: https://github.com/edgexfoundry/docker-edgex-mongo/issues (NOTE - this image is archived and issues are no longer being worked)
 
 - Supported architectures: intel/amd64
 
@@ -59,4 +59,4 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
 Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated
 
 
-[source repository](https://github.com/edgexfoundry/docker-edgex-mongo/blob/master/cmd/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/docker-edgex-mongo/blob/v1.3.0/cmd/Attribution.txt).

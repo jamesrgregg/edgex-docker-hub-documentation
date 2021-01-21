@@ -17,7 +17,7 @@ WARNING:
 # Supported tags and respective Dockerfile links
 
 - Hanoi
-    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/device-virtual-go/blob/master/Dockerfile)
+    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/device-virtual-go/blob/v1.3.0/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -42,7 +42,7 @@ EdgeX's official documentation can be found at [docs.edgexfoundry.org](https://d
 *Edgey - the official EdgeX Foundry project mascot*
 # What's in this image?
 
-This image contains the virtual device service, which simulates different kinds of devices to generate events and readings to the core data micro service, and users send commands and get responses through the command and control micro service. These features of the virtual device services are useful when executing functional or performance tests without having any real devices.
+This image contains the [virtual device service](https://docs.edgexfoundry.org/1.2/microservices/device/virtual/Ch-VirtualDevice/), which simulates different kinds of devices to generate events and readings to the core data micro service, and users send commands and get responses through the command and control micro service. These features of the virtual device services are useful when executing functional or performance tests without having any real devices.
 
 The device virtual service source code: https://github.com/edgexfoundry/device-virtual-go
 
@@ -57,4 +57,4 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
 Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated
 
 
-[source repository](https://github.com/edgexfoundry/device-virtual-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/device-virtual-go/blob/v1.3.0/Attribution.txt).

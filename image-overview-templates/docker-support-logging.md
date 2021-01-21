@@ -4,8 +4,8 @@ $$./common/quick-reference.md
 
 # Supported tags and respective Dockerfile links
 
-$$./common/version-california.md
-        - [Dockerfile](https://github.com/edgexfoundry/docker-support-logging/blob/master/Dockerfilee)
+$$./common/version-barcelona.md
+        - [Dockerfile](https://github.com/edgexfoundry/support-logging/blob/barcelona/docker-files/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ Provided the central logging micro service for all EdgeX services.  This service
 The support logging service source code: https://github.com/edgexfoundry/support-logging
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/support-logging/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/support-logging/blob/barcelona/Attribution.txt).

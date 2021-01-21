@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/geneva/cmd/support-logging/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-logging/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -27,4 +27,4 @@ This image contains the **ARM64 version** version of the central logging micro s
 The service source code: https://github.com/edgexfoundry/edgex-go
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/edgex-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-logging/Attribution.txt).

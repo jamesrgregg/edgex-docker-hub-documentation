@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/master/cmd/core-command/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/core-command/Dockerfile)
 
 $$./common/quick-reference-cont-edgex-go.md
 
@@ -37,4 +37,4 @@ way to simplify communications with the devices. There are two types of commands
 The core command service source code: https://github.com/edgexfoundry/edgex-go
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/edgex-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/core-command/Attribution.txt).

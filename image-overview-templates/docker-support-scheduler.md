@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-california.md
-        - [Dockerfile](https://github.com/edgexfoundry/docker-support-scheduler/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/support-scheduler/blob/california/docker-files/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ The support scheduler micro service provide an internal EdgeX “clock” that c
 The support scheduler service source code: https://github.com/edgexfoundry/support-scheduler
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/support-scheduler/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/support-scheduler/blob/california/Attribution.txt).

@@ -6,8 +6,8 @@ $$./common/quick-reference.md
 
 # Supported tags and respective Dockerfile links
 
-$$./common/version-geneva.md
-        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-mongo/blob/master/cmd/Dockerfile)
+$$./common/version-hanoi.md
+        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-mongo/blob/1.3.0/cmd/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ This image contains the files to create the MongoDB container used for persisten
 The service source code: https://github.com/edgexfoundry/docker-edgex-mongo
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/docker-edgex-mongo/blob/master/cmd/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/docker-edgex-mongo/blob/v1.3.0/cmd/Attribution.txt).

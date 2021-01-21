@@ -4,8 +4,8 @@ $$./common/quick-reference.md
 
 # Supported tags and respective Dockerfile links
 
-$$./common/version-california.md
-        - [Dockerfile](https://github.com/edgexfoundry/docker-export-distro/blob/master/Dockerfile)
+$$./common/version-barcelona.md
+        - [Dockerfile](https://github.com/edgexfoundry/export-distro/blob/master/docker-files/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -27,4 +27,4 @@ This image contains the legacy Java export distribution micro service, also know
 The export distro service source code: https://github.com/edgexfoundry/export-distro
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/export-distro/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/export-distro/blob/barcelona/Attribution.txt).

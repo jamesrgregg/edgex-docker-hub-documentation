@@ -4,8 +4,8 @@ $$./common/quick-reference.md
 
 # Supported tags and respective Dockerfile links
 
-$$./common/version-california.md
-        - [Dockerfile](https://github.com/edgexfoundry/core-metadata/blob/master/docker-files/Dockerfile)
+$$./common/version-barcelona.md
+        - [Dockerfile](https://github.com/edgexfoundry/core-metadata/blob/barcelona/docker-files/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ The core data micro service provides centralized persistence for data collected 
 The core data service source code: https://github.com/edgexfoundry/core-metadata
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/core-metadata/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/core-metadata/blob/barcelona/Attribution.txt).

@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/app-service-configurable/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/app-service-configurable/blob/hanoi/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -26,4 +26,4 @@ This image contains the appl service configuragle. App-Service-Configurable is p
 The app service configurable source code: https://github.com/edgexfoundry/app-service-configurable
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/app-service-configurable/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/app-service-configurable/blob/hanoi/Attribution.txt).

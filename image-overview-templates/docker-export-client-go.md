@@ -7,7 +7,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-fuji.md
-        - [Dockerfile](https://github.com/edgexfoundry/export-client/blob/master/docker-files/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/fuji/cmd/export-client/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -29,4 +29,4 @@ The EdgeX Foundry Export Client Registration micro service enables clients, whet
 The service source code: https://github.com/edgexfoundry/export-client
 
 $$./common/license.md
-[source repository](https://github.com/edgexfoundry/export-client/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/fuji/cmd/export-client/Attribution.txt).

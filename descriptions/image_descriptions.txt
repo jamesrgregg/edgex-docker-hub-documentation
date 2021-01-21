@@ -33,6 +33,7 @@ docker-support-scheduler-go-arm64:The ARM64 implementation scheduler service for
 docker-support-logging-go-arm64:ARCHVED! ARM64 central logging for older versions of EdgeX Foundry
 docker-export-client-go-arm64:ARCHIVED! ARM64 export registration for older EdgeX Foundry
 docker-core-config-seed-go-arm64:ARCHIVED! Legacy ARM64 configuration seeding for EdgeX Foundry
+docker-edgex-security-proxy-setup-go:ARCHIVED! Legacy API gateway setup for older EdgeX Foundry
 docker-core-command:ARCHIVED! The legacy core command service for EdgeX Foundry
 docker-edgex-ui-go-arm64:The ARM64 demonstration and developer EdgeX Foundry user interface
 docker-support-rulesengine-arm64:ARCHIVED! The legacy ARM64 rules engine service for EdgeX Foundry
@@ -40,3 +41,11 @@ docker-export-distro-go-arm64:ARCHIVED! The ARM64 export distribution for older 
 docker-device-mqtt-go:Device service ingesting device data via MQTT for EdgeX Foundry
 docker-export-distro:ARCHIVED! The legacy export distribution for older EdgeX Foundry
 docker-device-virtual-arm64:ARCHIVED! The legacy ARM64 virtual device service for EdgeX Foundry
+docker-edgex-security-secretstore-setup-go:ARCHIVED! Legacy secret store setup for EdgeX Foundry
+docker-edgex-vault:ARCHIVED! The legacy Vault secret store service for EdgeX Foundry
+docker-edgex-proxy-go:ARCHIVED! The legacy security API gateway service for EdgeX Foundry
+docker-edgex-vault-worker-go:ARCHIVED! The legacy Vault initialization service for EdgeX Foundry
+docker-edgex-volume-arm64:ARCHIVED! The ARM64 Docker volume for older versions of EdgeX Foundry
+docker-core-config-seed:ARCHIVED! The legacy configuration seeding for EdgeX Foundry
+docker-edgex-secret-store-go:ARCHIVED! The legacy Vault secret store service for EdgeX Foundry
+docker-core-consul:ARCHIVED! The legacy Consul service for older EdgeX Foundry

@@ -18,7 +18,7 @@ WARNING:
 # Supported tags and respective Dockerfile links
 
 - Fuji
-    - 1.1.0        - [Dockerfile](https://github.com/edgexfoundry/export-client/blob/master/docker-files/Dockerfile)
+    - 1.1.0        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/fuji/cmd/export-client/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -59,4 +59,4 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
 Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated
 
 
-[source repository](https://github.com/edgexfoundry/export-client/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/fuji/cmd/export-client/Attribution.txt).

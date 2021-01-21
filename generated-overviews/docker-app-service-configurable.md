@@ -17,7 +17,7 @@ WARNING:
 # Supported tags and respective Dockerfile links
 
 - Hanoi
-    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/app-service-configurable/blob/master/Dockerfile)
+    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/app-service-configurable/blob/hanoi/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -57,4 +57,4 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
 Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated
 
 
-[source repository](https://github.com/edgexfoundry/app-service-configurable/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/app-service-configurable/blob/hanoi/Attribution.txt).

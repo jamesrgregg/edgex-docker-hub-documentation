@@ -18,7 +18,7 @@ WARNING:
 # Supported tags and respective Dockerfile links
 
 - Geneva
-    - 1.2.1        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-volume/blob/master/Dockerfile)
+    - 1.2.1        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-volume/blob/v1.2.0/Dockerfile)
 
 # Quick reference (cont.)
 

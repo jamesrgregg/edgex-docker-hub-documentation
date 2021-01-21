@@ -7,7 +7,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-geneva.md
-        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-volume/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/docker-edgex-volume/blob/v1.2.0/Dockerfile)
 
 # Quick reference (cont.)
 

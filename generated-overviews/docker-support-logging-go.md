@@ -17,8 +17,8 @@ WARNING:
 - Where to get help: [EdgeX Web Site](https://www.edgexfoundry.com), [EdgeX Documentation](https://docs.edgexfoundry.com), [EdgeX Slack](https://slack.edgexfoundry.org/), [EdgeX Project Wiki](https://wiki.edgexfoundry.org)
 # Supported tags and respective Dockerfile links
 
-- Geneva
-    - 1.2.1        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/geneva/cmd/support-logging/Dockerfile)
+- Hanoi
+    - 1.3.0        - [Dockerfile](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-logging/Dockerfile)
 
 # Quick reference (cont.)
 
@@ -59,4 +59,4 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
 Some additional license information which was able to be auto-detected might be found in the Attribution.txt file located in the image and copied from the associated
 
 
-[source repository](https://github.com/edgexfoundry/edgex-go/blob/master/Attribution.txt).
+[source repository](https://github.com/edgexfoundry/edgex-go/blob/hanoi/cmd/support-logging/Attribution.txt).

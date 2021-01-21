@@ -5,7 +5,7 @@ $$./common/quick-reference.md
 # Supported tags and respective Dockerfile links
 
 $$./common/version-hanoi.md
-        - [Dockerfile](https://github.com/edgexfoundry/edgex-ui-go/blob/master/Dockerfile)
+        - [Dockerfile](https://github.com/edgexfoundry/edgex-ui-go/blob/v1.3.0/Dockerfile)
 
 # Quick reference (cont.)
 
