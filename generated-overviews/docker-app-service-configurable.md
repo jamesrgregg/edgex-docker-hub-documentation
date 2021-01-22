@@ -42,7 +42,7 @@ EdgeX's official documentation can be found at [docs.edgexfoundry.org](https://d
 *Edgey - the official EdgeX Foundry project mascot*
 # What's in this image?
 
-This image contains the appl service configuragle. App-Service-Configurable is provided as an easy way to get started with processing data flowing through EdgeX. This service leverages the App Functions SDK and provides a way for developers to use configuration instead of having to compile standalone services to utilize built in functions in the SDK. Please refer to [Available Configurable Pipeline Functions](https://docs.edgexfoundry.org/1.2/microservices/application/AppServiceConfigurable/#available-configurable-pipeline-functions) for a full list of built in functions that can be used in the configurable pipeline.
+This image contains the appl service configurable. App-Service-Configurable is provided as an easy way to get started with processing data flowing through EdgeX. This service leverages the App Functions SDK and provides a way for developers to use configuration instead of having to compile standalone services to utilize built in functions in the SDK. Please refer to [Available Configurable Pipeline Functions](https://docs.edgexfoundry.org/1.2/microservices/application/AppServiceConfigurable/#available-configurable-pipeline-functions) for a full list of built in functions that can be used in the configurable pipeline.
 
 The app service configurable source code: https://github.com/edgexfoundry/app-service-configurable
 
